@@ -1,4 +1,4 @@
-#!env php
+#!/usr/bin/php
 <?php
 //参数检查
 if (!$argv || count($argv) < 2) {
